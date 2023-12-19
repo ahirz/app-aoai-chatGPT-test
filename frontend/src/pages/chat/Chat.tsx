@@ -586,7 +586,7 @@ const Chat = () => {
                         {!messages || messages.length < 1 ? (
                             <Stack className={styles.chatEmptyState}>
                                 <img
-                                    src={Azure}
+                                    src="frontend/src/assets/DF_Tomato_No_Banner_Logo_small.png"
                                     className={styles.chatIcon}
                                     aria-hidden="true"
                                 />
